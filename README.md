@@ -1,2 +1,2 @@
-# bosaltyapi
-Discord.JS boş altyapı
+# Boş altyapı
+[Discord.JS](discord.gg/codeshare) boş altyapı
